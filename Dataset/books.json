@@ -1,0 +1,20 @@
+[
+    {
+       "Book title": "Atomic habits",
+    "Author": "James Clear",
+    "Genre": "Self help",
+    "Publisher": "Penguin Random house"
+    },
+    {
+       "Book title": "Rich dad poor dad",
+    "Author": "Robert Kiyosaki",
+    "Genre": "Personal finance",
+    "Publisher": "Warner books"
+    },
+    {
+          "Book title": "Tiny pretty things",
+    "Author": "Sona CharaipotraDhonielle Clayton",
+    "Genre": "Fiction",
+    "Publisher": "Harper Collins"
+    }
+]
